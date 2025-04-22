@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items iblockUid="CARGONOMICA_MENU:CARGONOMICA_FREQUENTLY_SEARCHED" exchangeVersion="2">
+    <item>
+        <field name="ACTIVE">
+            <value>Y</value>
+        </field>
+        <field name="ACTIVE_FROM"/>
+        <field name="ACTIVE_TO"/>
+        <field name="SORT">
+            <value>500</value>
+        </field>
+        <field name="NAME">
+            <value>Бесплатная система мониторинга</value>
+        </field>
+        <field name="PREVIEW_PICTURE"/>
+        <field name="PREVIEW_TEXT"/>
+        <field name="PREVIEW_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="DETAIL_PICTURE"/>
+        <field name="DETAIL_TEXT"/>
+        <field name="DETAIL_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="CODE"/>
+        <field name="TAGS"/>
+        <field name="XML_ID">
+            <value>49</value>
+        </field>
+        <field name="IBLOCK_SECTION">
+            <value>Cargo.Fuel|2|Cargo.Fuel</value>
+        </field>
+        <property name="TEXT">
+            <value>Бесплатная система мониторинга</value>
+        </property>
+        <property name="LINK">
+            <value>https://www.youtube.com/</value>
+        </property>
+    </item>
+    <item>
+        <field name="ACTIVE">
+            <value>Y</value>
+        </field>
+        <field name="ACTIVE_FROM"/>
+        <field name="ACTIVE_TO"/>
+        <field name="SORT">
+            <value>500</value>
+        </field>
+        <field name="NAME">
+            <value>Оптимизация маршрутов</value>
+        </field>
+        <field name="PREVIEW_PICTURE"/>
+        <field name="PREVIEW_TEXT"/>
+        <field name="PREVIEW_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="DETAIL_PICTURE"/>
+        <field name="DETAIL_TEXT"/>
+        <field name="DETAIL_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="CODE"/>
+        <field name="TAGS"/>
+        <field name="XML_ID">
+            <value>50</value>
+        </field>
+        <field name="IBLOCK_SECTION">
+            <value>Cargo.Fuel|2|Cargo.Fuel</value>
+        </field>
+        <property name="TEXT">
+            <value>Оптимизация маршрутов</value>
+        </property>
+        <property name="LINK">
+            <value>https://www.youtube.com/</value>
+        </property>
+    </item>
+    <item>
+        <field name="ACTIVE">
+            <value>Y</value>
+        </field>
+        <field name="ACTIVE_FROM"/>
+        <field name="ACTIVE_TO"/>
+        <field name="SORT">
+            <value>500</value>
+        </field>
+        <field name="NAME">
+            <value>Калькулятор экономии</value>
+        </field>
+        <field name="PREVIEW_PICTURE"/>
+        <field name="PREVIEW_TEXT"/>
+        <field name="PREVIEW_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="DETAIL_PICTURE"/>
+        <field name="DETAIL_TEXT"/>
+        <field name="DETAIL_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="CODE"/>
+        <field name="TAGS"/>
+        <field name="XML_ID">
+            <value>51</value>
+        </field>
+        <field name="IBLOCK_SECTION">
+            <value>Cargo.Fuel|2|Cargo.Fuel</value>
+        </field>
+        <property name="TEXT">
+            <value>Калькулятор экономии</value>
+        </property>
+        <property name="LINK">
+            <value>https://www.youtube.com/</value>
+        </property>
+    </item>
+    <item>
+        <field name="ACTIVE">
+            <value>Y</value>
+        </field>
+        <field name="ACTIVE_FROM"/>
+        <field name="ACTIVE_TO"/>
+        <field name="SORT">
+            <value>500</value>
+        </field>
+        <field name="NAME">
+            <value>Виды топлива</value>
+        </field>
+        <field name="PREVIEW_PICTURE"/>
+        <field name="PREVIEW_TEXT"/>
+        <field name="PREVIEW_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="DETAIL_PICTURE"/>
+        <field name="DETAIL_TEXT"/>
+        <field name="DETAIL_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="CODE"/>
+        <field name="TAGS"/>
+        <field name="XML_ID">
+            <value>52</value>
+        </field>
+        <field name="IBLOCK_SECTION">
+            <value>Cargo.Fuel|2|Cargo.Fuel</value>
+        </field>
+        <property name="TEXT">
+            <value>Виды топлива</value>
+        </property>
+        <property name="LINK">
+            <value>https://www.youtube.com/</value>
+        </property>
+    </item>
+    <item>
+        <field name="ACTIVE">
+            <value>Y</value>
+        </field>
+        <field name="ACTIVE_FROM"/>
+        <field name="ACTIVE_TO"/>
+        <field name="SORT">
+            <value>500</value>
+        </field>
+        <field name="NAME">
+            <value>Cargo.Fuel</value>
+        </field>
+        <field name="PREVIEW_PICTURE"/>
+        <field name="PREVIEW_TEXT"/>
+        <field name="PREVIEW_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="DETAIL_PICTURE"/>
+        <field name="DETAIL_TEXT"/>
+        <field name="DETAIL_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="CODE"/>
+        <field name="TAGS"/>
+        <field name="XML_ID">
+            <value>53</value>
+        </field>
+        <field name="IBLOCK_SECTION">
+            <value>Продукты|2|Products</value>
+        </field>
+        <property name="TEXT">
+            <value>Cargo.Fuel</value>
+        </property>
+        <property name="LINK">
+            <value>https://www.youtube.com/</value>
+        </property>
+    </item>
+    <item>
+        <field name="ACTIVE">
+            <value>Y</value>
+        </field>
+        <field name="ACTIVE_FROM"/>
+        <field name="ACTIVE_TO"/>
+        <field name="SORT">
+            <value>500</value>
+        </field>
+        <field name="NAME">
+            <value>Cargo.Leasing</value>
+        </field>
+        <field name="PREVIEW_PICTURE"/>
+        <field name="PREVIEW_TEXT"/>
+        <field name="PREVIEW_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="DETAIL_PICTURE"/>
+        <field name="DETAIL_TEXT"/>
+        <field name="DETAIL_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="CODE"/>
+        <field name="TAGS"/>
+        <field name="XML_ID">
+            <value>54</value>
+        </field>
+        <field name="IBLOCK_SECTION">
+            <value>Продукты|2|Products</value>
+        </field>
+        <property name="TEXT">
+            <value>Cargo.Leasing</value>
+        </property>
+        <property name="LINK">
+            <value>https://www.youtube.com/</value>
+        </property>
+    </item>
+    <item>
+        <field name="ACTIVE">
+            <value>Y</value>
+        </field>
+        <field name="ACTIVE_FROM"/>
+        <field name="ACTIVE_TO"/>
+        <field name="SORT">
+            <value>500</value>
+        </field>
+        <field name="NAME">
+            <value>Cargo.Logistics</value>
+        </field>
+        <field name="PREVIEW_PICTURE"/>
+        <field name="PREVIEW_TEXT"/>
+        <field name="PREVIEW_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="DETAIL_PICTURE"/>
+        <field name="DETAIL_TEXT"/>
+        <field name="DETAIL_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="CODE"/>
+        <field name="TAGS"/>
+        <field name="XML_ID">
+            <value>55</value>
+        </field>
+        <field name="IBLOCK_SECTION">
+            <value>Продукты|2|Products</value>
+        </field>
+        <property name="TEXT">
+            <value>Cargo.Logistics</value>
+        </property>
+        <property name="LINK">
+            <value>https://www.youtube.com/</value>
+        </property>
+    </item>
+    <item>
+        <field name="ACTIVE">
+            <value>Y</value>
+        </field>
+        <field name="ACTIVE_FROM"/>
+        <field name="ACTIVE_TO"/>
+        <field name="SORT">
+            <value>500</value>
+        </field>
+        <field name="NAME">
+            <value>Cargo.Insurance</value>
+        </field>
+        <field name="PREVIEW_PICTURE"/>
+        <field name="PREVIEW_TEXT"/>
+        <field name="PREVIEW_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="DETAIL_PICTURE"/>
+        <field name="DETAIL_TEXT"/>
+        <field name="DETAIL_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="CODE"/>
+        <field name="TAGS"/>
+        <field name="XML_ID">
+            <value>56</value>
+        </field>
+        <field name="IBLOCK_SECTION">
+            <value>Продукты|2|Products</value>
+        </field>
+        <property name="TEXT">
+            <value>Cargo.Insurance</value>
+        </property>
+        <property name="LINK">
+            <value>https://www.youtube.com/</value>
+        </property>
+    </item>
+    <item>
+        <field name="ACTIVE">
+            <value>Y</value>
+        </field>
+        <field name="ACTIVE_FROM"/>
+        <field name="ACTIVE_TO"/>
+        <field name="SORT">
+            <value>500</value>
+        </field>
+        <field name="NAME">
+            <value>Cargo.Used</value>
+        </field>
+        <field name="PREVIEW_PICTURE"/>
+        <field name="PREVIEW_TEXT"/>
+        <field name="PREVIEW_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="DETAIL_PICTURE"/>
+        <field name="DETAIL_TEXT"/>
+        <field name="DETAIL_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="CODE"/>
+        <field name="TAGS"/>
+        <field name="XML_ID">
+            <value>57</value>
+        </field>
+        <field name="IBLOCK_SECTION">
+            <value>Продукты|2|Products</value>
+        </field>
+        <property name="TEXT">
+            <value>Cargo.Used</value>
+        </property>
+        <property name="LINK">
+            <value>https://www.youtube.com/</value>
+        </property>
+    </item>
+    <item>
+        <field name="ACTIVE">
+            <value>Y</value>
+        </field>
+        <field name="ACTIVE_FROM"/>
+        <field name="ACTIVE_TO"/>
+        <field name="SORT">
+            <value>500</value>
+        </field>
+        <field name="NAME">
+            <value>Cargo.Journal</value>
+        </field>
+        <field name="PREVIEW_PICTURE"/>
+        <field name="PREVIEW_TEXT"/>
+        <field name="PREVIEW_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="DETAIL_PICTURE"/>
+        <field name="DETAIL_TEXT"/>
+        <field name="DETAIL_TEXT_TYPE">
+            <value>text</value>
+        </field>
+        <field name="CODE"/>
+        <field name="TAGS"/>
+        <field name="XML_ID">
+            <value>58</value>
+        </field>
+        <field name="IBLOCK_SECTION">
+            <value>Продукты|2|Products</value>
+        </field>
+        <property name="TEXT">
+            <value>Cargo.Journal</value>
+        </property>
+        <property name="LINK">
+            <value>https://www.youtube.com/</value>
+        </property>
+    </item>
+</items>
